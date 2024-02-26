@@ -1,12 +1,12 @@
 {
-  "name": "swap-op",
+  "name": "modenet-swapper",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple Node.js script for swapping ETH, WETH, USDT, or other ERC20 tokens on Mode Network",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lynn <lynnzclyf@gmail.com>",
+  "author": "mariya <mariyasusan169@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "commander": "^12.0.0",
