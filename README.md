@@ -11,7 +11,7 @@ ModeNetwork Swapper is a simple Node.js script for swapping ETH, WETH, USDT, or 
 1. Node.js  
 2. npm  
 3. An Ethereum wallet with some ETH on the Mode network.  
-4. A private key to that Ethereum wallet (strongly recommended to use a wallet with a small amount for testing/development purposes and never commit or disclose your private key).  
+4. A private key to that Ethereum wallet (strongly recommended to use a wallet with a small amount for testing purposes and **never commit or disclose your private key**).  
 
 ### Installation  
 Clone the repository and install the dependencies:  
